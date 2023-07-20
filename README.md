@@ -6,7 +6,7 @@ Don't want to miss the movies released in Taiwan recently, so I want to send the
 # Demo
 ![image](https://github.com/DrDAN6770/Automation-Schedule/assets/118630187/a0036a92-2dc7-4bea-93fb-b541728df91f)
 # Concept
-![structure](https://github.com/DrDAN6770/Automation-Schedule/assets/118630187/960233e4-75d3-4b0a-856c-8c43c8f8028f)
+![image](https://github.com/DrDAN6770/Automation-Schedule/assets/118630187/29e406a8-8531-40ad-a585-3fc8417ab8d9)
 1. Python compose crawler main file
 2. Pandas processing crawler data to structured data
 3. Mail the table via smtplib module
